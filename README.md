@@ -1,4 +1,4 @@
-<p style="font-size:30px" align="center">
+<p style="font-size:100px" align="center">
 Bringing 'Friends' characters to life
 </p>
 
