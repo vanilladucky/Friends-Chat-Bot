@@ -11,7 +11,7 @@ import requests
 import discord
 
 # this is my Hugging Face profile link
-API_URL = 'https://api-inference.huggingface.co/models/pinkducky/'
+API_URL = ...
 
 class MyClient(discord.Client):
     def __init__(self, model_name):
@@ -76,7 +76,7 @@ class MyClient(discord.Client):
 
 def main():
     # DialoGPT-medium-joshua is my model name
-    client = MyClient('Rachel_Bot')
+    client = MyClient('...')
     keep_alive()
     client.run(os.environ['DISCORD_TOKEN'])
 
