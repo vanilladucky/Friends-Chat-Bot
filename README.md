@@ -17,6 +17,13 @@ The technology I have used here is Generative Pre-trained Transfomer, specifical
 
 Hosting the model was done on HuggingFace and made sure to keep it running. 
 
+## Platforms Used
+---
+
+* https://replit.com
+* https://huggingface.co/
+* https://uptimerobot.com/
+
 ## Resources
 ---
 
