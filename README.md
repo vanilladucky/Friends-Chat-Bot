@@ -35,4 +35,4 @@ Hosting the model was done on HuggingFace and made sure to keep it running.
 ---
 Without these help I would not have been able to create this at all, so please do check them out.
 * [RuolinZheng08](https://github.com/RuolinZheng08/twewy-discord-chatbot) 
-* [FreeCodeCamp Tutorial by her]("https://www.freecodecamp.org/news/discord-ai-chatbot/")
+* [FreeCodeCamp Tutorial by her](https://www.freecodecamp.org/news/discord-ai-chatbot/)
